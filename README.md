@@ -12,3 +12,6 @@ After this, 57 of the 70 variables were selected in the feature extraction proce
 
 Then a few models were selected to decide which would be the final one to be used, where MLP had the best result among the options.
  In the end, the K-fold process was employed for training the MLP.
+ 
+ 
+Competition's F1-score: 0,7409!
